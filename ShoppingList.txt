@@ -5,3 +5,5 @@ Kiem
 Cashew
 Bloemkool
 Blad groente
+Wortel
+Daikon
