@@ -7,3 +7,5 @@ Bloemkool
 Blad groente
 Wortel
 Daikon
+Soep
+Aardappel
